@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class harmonik {
 
 	public static void main(String[] args) {
-		// Kodluyoruz patika.dev Java patikasý Döngüler pratik 6
+		// Kodluyoruz patika.dev Java patikasý Döngüler pratik 7
 		// Armstrong Sayýlarý Bulan Program
 		// BJava ile girilen sayýnýn harmonik serisini bulan program yazacaðýz.
 		
